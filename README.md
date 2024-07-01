@@ -18,7 +18,6 @@ python manage.py runserver
 
 ```
 
-# Poster-Maker
  Create an E-commerce using python, and Django with react
 
 
