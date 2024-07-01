@@ -19,7 +19,7 @@ python manage.py runserver
 ```
 
 # Poster-Maker
- Poster Maker Develop for MYJOBS Company
+ Create an E-commerce using python, and Django with react
 
 
 
@@ -39,13 +39,13 @@ python manage.py runserver
      alt="admin.png"/>
 ---
 
-<img src="img_2.png"
-     alt="Job Portal"/>
+<img src="img1.png"
+     alt="Image"/>
 ---
 
 
-<img src="img_3.png"
-     alt="Job Portal"/>
+<img src="img2.png"
+     alt="Image"/>
 ---
 
 
