@@ -38,7 +38,7 @@ python manage.py runserver
 <img src="admin.png"
      alt="admin.png"/>
 
-     
+
 ---
 
 <img src="img1.png"
